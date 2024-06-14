@@ -1,5 +1,5 @@
 # IntractiveLearning
-This repository contains my implementations codes of interactive learning course, includes :
+This repository contains codes of my assignments that includes :
 
 * [Multi-armed bandit algorithm to optimizing pricing strategy for consumers loan](https://github.com/niiiikou/IntractiveLearning/blob/main/HW2.ipynb)
   
